@@ -1,3 +1,5 @@
+Functional clone with LFS here: https://huggingface.co/acheong08/SD-V1-5-cloned
+
 ---
 license: creativeml-openrail-m
 tags:
